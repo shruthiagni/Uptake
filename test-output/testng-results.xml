@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7796" started-at="2017-08-07T14:10:46Z" finished-at="2017-08-07T14:10:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7796" started-at="2017-08-07T14:10:46Z" finished-at="2017-08-07T14:10:54Z">
+      <class name="pageTests.IndustriesPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="setUp" is-config="true" duration-ms="4555" started-at="2017-08-07T09:10:46Z" finished-at="2017-08-07T09:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="industriesMenuClick()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="industriesMenuClick" duration-ms="556" started-at="2017-08-07T09:10:51Z" finished-at="2017-08-07T09:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- industriesMenuClick -->
+        <test-method status="PASS" signature="getAllBubbles()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="getAllBubbles" duration-ms="178" started-at="2017-08-07T09:10:51Z" finished-at="2017-08-07T09:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBubbles -->
+        <test-method status="PASS" signature="agricultureBubbleClick()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="agricultureBubbleClick" duration-ms="704" started-at="2017-08-07T09:10:52Z" finished-at="2017-08-07T09:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agricultureBubbleClick -->
+        <test-method status="PASS" signature="agricultureScrollDown()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="agricultureScrollDown" duration-ms="697" started-at="2017-08-07T09:10:52Z" finished-at="2017-08-07T09:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agricultureScrollDown -->
+        <test-method status="PASS" signature="agricultureBackButton()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="agricultureBackButton" duration-ms="501" started-at="2017-08-07T09:10:53Z" finished-at="2017-08-07T09:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agricultureBackButton -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pageTests.IndustriesPageTest@26be92ad]" name="afterClass" is-config="true" duration-ms="582" started-at="2017-08-07T09:10:54Z" finished-at="2017-08-07T09:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pageTests.IndustriesPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
